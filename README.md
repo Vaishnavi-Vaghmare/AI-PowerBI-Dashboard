@@ -20,11 +20,12 @@ This Power BI dashboard analyzes the impact of AI adoption across industries foc
 [![Page 1](AI_Dashboard_Preview.png)](AI_Dashboard_Preview.png)
 
 
-
-
-
 ## 📈 Key Insights
-Industries with higher AI adoption and skilled workforce readiness show reduced automation risk, stronger salary growth, and improved long-term employment sustainability.
+- AI adoption drives industry-wide workforce transformation.
+- Higher AI maturity reduces automation risk and stabilizes salaries.
+- Skill demand growth accelerated significantly after 2022.
+- Remote-ready industries show stronger employment sustainability.
+- Workforce upskilling is critical to mitigating automation impact.
 
 ## 📂 Files Included
 - AI_Dashboard.pbix
