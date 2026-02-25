@@ -18,12 +18,9 @@ This Power BI dashboard analyzes the impact of AI adoption across industries foc
 
 ### AI Workforce Transformation Dashboard(1)
 [![Page 1](AI_Dashboard_Preview.png)](AI_Dashboard_Preview.png)
-
-### AI Workforce Transformation Dashboard(2)
 [![Page 2](AI_Dashboard_Preview(2).png)](AI_Dashboard_Preview(2).png)
-
-### AI Workforce Transformation Dashboard(3)
 [![Page 3](AI_Dashboard_Preview(3).png)](AI_Dashboard_Preview(3).png)
+
 
 
 
